@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, Helvetica, sans-serif; 
+  padding: 0px;
+  background-color:#F8FAFC;
+
+}
+.container {
+   
+}
+header {
+  text-align: center;
+  padding: 50px 0px;
+  background-color: #ffffff;
+}
+.Q-1,.Q-2 {
+  margin: 0px auto;
+  width: 640px;
+  padding: 50px 20px;
+  line-height: 27px;
+}
+a {
+  color: #4E80EE;
+}
+hr {
+  width: 640px;
+}
